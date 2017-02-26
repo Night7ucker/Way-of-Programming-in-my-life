@@ -1,0 +1,124 @@
+#header{
+	background-color: grey;
+	width: 600px;
+	padding: 15px;
+	border-radius: 5px;
+	float: both;
+	text-align: center;
+	font-size: 40px;
+	font-family: "Arial";
+	font-style: italic;
+	margin: 0px 50px 0px 650px;
+
+}
+#signin {
+	position: absolute;
+	top: 8px;
+	
+}
+#signout {
+	top: 8px;
+	left: 365px;
+	position: absolute;
+
+}
+#filters {
+	top: 170px;
+	right: 314px;
+	position: absolute;
+}
+#news1,#news2,#news3,#news4,#news5,#news6,#news7,#news8,#news9,#news10,#news11 {
+	background-color: aliceblue;
+	width: 750px;
+	padding: 10px;
+	margin: 0px 100px 0px 100px;
+	border: 1px solid black;
+}
+#showNews1 {
+	position: absolute;
+	right: 724px;
+	top: 320px;
+}
+#showNews2 {
+	position: absolute;
+	right: 724px;
+	top: 426px;
+}
+#showNews3 {
+	position: absolute;
+	right: 724px;
+	top: 532px;
+}
+#showNews4 {
+	position: absolute;
+	right: 724px;
+	top: 638px;
+}
+#showNews5 {
+	position: absolute;
+	right: 724px;
+	top: 744px;
+}
+#showNews6 {
+	position: absolute;
+	right: 724px;
+	top: 850px;
+}
+#showNews7 {
+	position: absolute;
+	right: 724px;
+	top: 956px;
+}
+#showNews8 {
+	position: absolute;
+	right: 724px;
+	top: 1062px;
+}
+#showNews9 {
+	position: absolute;
+	right: 724px;
+	top: 1168px;
+}
+#showNews10 {
+	position: absolute;
+	right: 724px;
+	top: 1274px;
+}
+#showNews11 {
+	position: absolute;
+	right: 724px;
+	top: 1380px;
+}
+
+#showMore {
+	position: absolute;
+	top: 1380px;
+	right: 310px;
+}
+
+#footer {
+	height: 100px;
+	
+	width: 1287px;
+	text-align: center;
+	font-size: 12px;
+	font-family: "Arial";
+	background-color: gray;
+}
+#menu {
+	background-color: rosybrown;
+	width: 1287px;
+	height: 30px;
+	text-align: center;
+	font-size: 20px;
+	margin: 0px 0px 0px 0px;
+}
+#background {
+	margin: 0px 300px 0px 300px;
+	background-color: whitesmoke;
+}
+#userInfo {
+	position: absolute;
+	top: 15px;
+	margin: 0px 0px 0px 5px;
+}
